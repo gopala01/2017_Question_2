@@ -243,9 +243,9 @@ class Driver{
     boolean afternoon; //Whether they worked in the afternoon
     boolean evening; //Whether they worked in the afternoon
 
-    int morningTaking;
-    int afternoonTaking;
-    int eveningTaking;
+    int morningTaking; //How much made in the morning
+    int afternoonTaking; //How much made in the afternoon
+    int eveningTaking; //How much made in the evening
 
-    int fullTaking;
+    int fullTaking; //How much made in the day
 }
